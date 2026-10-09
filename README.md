@@ -48,7 +48,7 @@ The dashboard provides key business insights through KPIs, charts, and interacti
 
 ## Dashboard Preview
 
-![Food Delivery Dashboard](Dashboard.png)
+![Food Delivery Dashboard](Food%20Delivery%20Dashboard%20Analysis%202026-09-25.png)
 
 ## Project Structure
 
